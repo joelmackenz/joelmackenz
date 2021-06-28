@@ -1,13 +1,13 @@
-<h1>Hey! 👋 I'm Joel.</h1>
+<h1 align="center">Hey! 👋 I'm Joel.</h1>
 
-<h2>I'm a musician-turned-web developer.</h2>
+<h2 align="center">I'm a musician-turned-web developer.</h2>
 
 <p></p>
 
 
 <h2> 🖥️&nbsp&nbspTechnologies</h2> 
 
-<p style="text-align:center;">-&nbsp<b>Languages:</b>
+<p >-&nbsp<b>Languages:</b>
   JavaScript, TypeScript, Python</p>
 <p>-&nbsp<b>Front-End:</b>
   React, HTML, WordPress</p>
@@ -21,5 +21,5 @@
   <p>- New tech</p>
 
 <h2>📫&nbsp&nbspContact</h2>
-<p>-Email: joelmackenzie3@gmail.com</p>
-<p>-Web: https://joelmackenzie.ca</p>
+<p>-&nbspEmail: joelmackenzie3@gmail.com</p>
+<p>-&nbspWeb: https://joelmackenzie.ca</p>

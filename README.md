@@ -1,16 +1,25 @@
-### Hi there 👋
+<h1>Hey! 👋 I'm Joel.</h1>
 
-<!--
-**joelmackenz/joelmackenz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>I'm a musician-turned-web developer.</h2>
 
-Here are some ideas to get you started:
+<p></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<h2> 🖥️&nbsp&nbspTechnologies</h2> 
+
+<p style="text-align:center;">-&nbsp<b>Languages:</b>
+  JavaScript, TypeScript, Python</p>
+<p>-&nbsp<b>Front-End:</b>
+  React, HTML, WordPress</p>
+<p>-&nbsp<b>Back-End:</b> 
+  Node.js, Express.js, MongoDB, Mongoose</p>
+  <p>I love learning new technologies and libraries, too!</p>
+
+<h2> 🔭&nbsp&nbspInterests</h2> 
+<p>- Non-profits </p>
+  <p>- Music & Community </p>
+  <p>- New tech</p>
+
+<h2>📫&nbsp&nbspContact</h2>
+<p>-Email: joelmackenzie3@gmail.com</p>
+<p>-Web: https://joelmackenzie.ca</p>

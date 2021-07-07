@@ -20,5 +20,5 @@
 <h2>📫&nbsp&nbspContact</h2>
 <p></p>
 
-- Email: [joelmacKenzie3@gmail.com](mailto:joelmackenzie3@gmail.com)
+- Email: [joelmackenz@gmail.com](mailto:joelmackenz@gmail.com)
 - Web: https://joelmackenzie.ca

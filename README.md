@@ -13,7 +13,7 @@
 
 <h2> 🔭&nbsp&nbspInterests</h2> 
 
-- Music & Community
+- Community & Music
 - Non-profits
 - New tech
 

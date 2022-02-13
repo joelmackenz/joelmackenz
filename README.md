@@ -6,9 +6,8 @@
 
 <h2> 🖥️&nbsp&nbspTechnologies</h2> 
 
-- <b>Languages</b>: JavaScript, TypeScript, Python
-- <b>Front-End</b>: React, HTML, CSS, WordPress
-- <b>Back-End</b>: Node.js, Express.js, MongoDB
+- <b>Front-End</b>: JavaScript, React, HTML, CSS
+- <b>Back-End</b>: C++, Python, Node.js
 
 
 <h2> 🔭&nbsp&nbspInterests</h2> 

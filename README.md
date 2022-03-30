@@ -1,6 +1,6 @@
 <h1 align="center">Hey! 👋 I'm Joel</h1>
 
-<h3 align="center">Full-stack web/mobile developer ⋅ BA Simon Fraser University ⋅ Musician & Music teacher</h3>
+<h3 align="center">Full-stack web/mobile developer ⋅ BA Simon Fraser University ⋅ Musician</h3>
 <p>&nbsp</p>
 
 
